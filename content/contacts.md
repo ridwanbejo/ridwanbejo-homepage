@@ -1,4 +1,6 @@
-# Contacts
+---
+title: "Contacts"
+---
 
 You can reach me by online through:
 
@@ -8,5 +10,9 @@ You can reach me by online through:
 - [Medium](https://ridwanfajar.medium.com/)
 - [Aku.dev](https://aku.dev/)
 - [Wordpress](https://ridwanbejo.wordpress.com/)
+
+If you are interested to my photography works, reach me through:
+
 - [Instagram](https://www.instagram.com/ridwanbejo_photographs/)
 - [PicFair](https://ridwanbejo.picfair.com/)
+- [Photocrowd](https://www.photocrowd.com/photographer-community/340842/)

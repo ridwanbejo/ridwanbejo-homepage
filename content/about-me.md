@@ -8,7 +8,9 @@ I have interests in DevOps, cloud infrastructure development, high scalable
 systems, serverless computing, container orchestration, IT governance, IT security and many more. My favorite quote is: *"Customer
 satisfaction is first priority"*.
 
-Currently, I am working as Cloud Infrastructure Engineer at [NiceDay Nederland B.V.](https://nicedaynederland.nl/) which has product for mental health care service. Previously, I was working at:
+Currently, I am working as Cloud Infrastructure Engineer at [NiceDay Nederland B.V.](https://nicedaynederland.nl/) which has product for mental health care service. Previously, NiceDay Nederland B.V. was known as Sense Health B.V. which is located in Rotterdam, The Netherlands and Bandung, Indonesia.
+
+I also worked at:
 
 * [Ebizu Sdn. Bhd.](https://www.linkedin.com/company/ebizu/about/) as Backend and Infrastructure Engineer for building advertising data platform
 * [P.T. ARM Solusi](https://armsolusi.com/) as Backend Engineer for building online music streaming service
@@ -43,6 +45,11 @@ During my career, I am working with these tools and services mostly:
 * **Data Processing**: Apache Sqoop, Apache Spark, Apache Orc, Postgres Foreign Data Wrapper, Metabase, PGAdmin,
 PHPMySQL, Adminer
 * **IT Governance**: ISO 27001:2013, NEN 7510-2:2017, COBIT 5
-* **Collaboration and Communication**: Slack, Google Docs, Slab, Dropbox Paper, Draw.io, Trello
+* **Collaboration and Communication**: Slack, Google Docs, Google Slide, Google Spreadsheet, Slab, Dropbox Paper, Draw.io, Trello
 
+As an ordinary human being, I also have some hobbies such as:
 
+- Photography: macro, portraiture, landscape, still life
+- Reading books: tech, science, history, novel, comic
+- Sport activities: running, walking, volley ball, table tennis
+- and many more.

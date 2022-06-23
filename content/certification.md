@@ -1,4 +1,6 @@
-# Certification
+---
+title: "Certification"
+---
 
 Currently, I am certified as:
 

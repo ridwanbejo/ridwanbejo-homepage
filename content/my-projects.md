@@ -1,4 +1,6 @@
-# My Projects
+---
+title: "My Projects"
+---
 
 I open some my personal projects in Github. You may access those projects here:
 

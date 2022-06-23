@@ -1,4 +1,6 @@
-# Publications
+---
+title: "Publications"
+---
 
 You can access my publications for internal conference here:
 
