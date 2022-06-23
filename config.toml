@@ -1,0 +1,66 @@
+baseURL = "https://ridwanbejo.github.io/"
+languageCode = "en-us"
+title = "RidwanBejo Dev"
+theme = "hugo-theme-casper"
+paginate = 2
+Copyright = "© ridwanbejo 2022"
+canonifyurls = true
+[params]
+	description = "I am an IT Engineer who focus on Backend and Cloud Infrastructure Engineering"
+	authorlocation = "Indonesia"
+	cover = "images/cover.jpg"
+	author = "Ridwan Fadjar Septian"
+	##logo = "images/logo.png"
+	## save the image you want to use as website logo in directory "./static/images"(delete this line when editing)
+	githubName = "ridwanbejo"
+	linkedinName = "ridwan-fadjar-79781756"
+	email = "ridwanbejo@gmail.com"
+	hideHUGOSupport = false
+[[menu.main]]  # here are the buttons on the menu
+	name = "Home" # Button will display as "Home"
+	weight = 100 # the weight decides the position of the button (higher or lower)
+	identifier = "home"
+	pre = "<br />"
+	url = "/"
+[[menu.main]]
+	name = "About Me"
+	identifier = "about-me" # this page will refer to a markdown file named "blog" in the content folder
+	pre = "<br />"
+	url = "/about-me"
+	weight = 80
+[[menu.main]]
+	name = "My Projects"
+	identifier = "my-projects" # this page will refer to a markdown file named "blog" in the content folder
+	pre = "<br />"
+	url = "/my-projects"
+	weight = 60
+[[menu.main]]
+	name = "Certification"
+	identifier = "certification" # this page will refer to a markdown file named "blog" in the content folder
+	pre = "<br />"
+	url = "/certification"
+	weight = 50
+[[menu.main]]
+	name = "Talks"
+	identifier = "talks" # this page will refer to a markdown file named "blog" in the content folder
+	pre = "<br />"
+	url = "/talks"
+	weight = 45
+[[menu.main]]
+	name = "Achievements"
+	identifier = "achievements" # this page will refer to a markdown file named "blog" in the content folder
+	pre = "<br />"
+	url = "/achievements"
+	weight = 40
+[[menu.main]]
+	name = "Blog"
+	pre = "<br />"
+	url = "https://ridwanfajar.medium.com"
+	target = "_blank"
+	weight = 35
+[permalinks]
+	post = "/:slug/"
+[sitemap]
+	ChangeFreq = ""
+	Filename = "sitemap.xml"
+	Priority = "-1"
