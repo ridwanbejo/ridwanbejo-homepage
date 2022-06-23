@@ -39,6 +39,12 @@ canonifyurls = true
 	identifier = "certification" # this page will refer to a markdown file named "blog" in the content folder
 	pre = "<br />"
 	url = "/certification"
+	weight = 55
+[[menu.main]]
+	name = "Publications"
+	identifier = "publications" # this page will refer to a markdown file named "blog" in the content folder
+	pre = "<br />"
+	url = "/publications"
 	weight = 50
 [[menu.main]]
 	name = "Talks"
@@ -58,6 +64,12 @@ canonifyurls = true
 	url = "https://ridwanfajar.medium.com"
 	target = "_blank"
 	weight = 35
+[[menu.main]]
+	name = "Contacts"
+	identifier = "contacts" # this page will refer to a markdown file named "blog" in the content folder
+	pre = "<br />"
+	url = "/contacts"
+	weight = 30
 [permalinks]
 	post = "/:slug/"
 [sitemap]

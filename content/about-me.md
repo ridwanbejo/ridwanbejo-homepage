@@ -2,26 +2,26 @@
 title: "About Me"
 ---
 
-Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 8+ years.
+Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 8+ years. Currently, I am living in Indonesia.
 
 I have interests in DevOps, cloud infrastructure development, high scalable
 systems, serverless computing, container orchestration, IT governance, IT security and many more. My favorite quote is: *"Customer
 satisfaction is first priority"*.
 
-Currently, I am working as Cloud Infrastructure Engineer at NiceDay Nederland B.V. which has product for mental health care service. Previously, I was working at:
+Currently, I am working as Cloud Infrastructure Engineer at [NiceDay Nederland B.V.](https://nicedaynederland.nl/) which has product for mental health care service. Previously, I was working at:
 
-* Ebizu Sdn. Bhd. as Backend and Infrastructure Engineer for building advertising data platform
-* P.T. ARM Solusi as Backend Engineer for building online music streaming service
-* P.T. Inzpire Technology as Web Developer for building online travel agent service
+* [Ebizu Sdn. Bhd.](https://www.linkedin.com/company/ebizu/about/) as Backend and Infrastructure Engineer for building advertising data platform
+* [P.T. ARM Solusi](https://armsolusi.com/) as Backend Engineer for building online music streaming service
+* [P.T. Inzpire Technology](http://inzpiretechnology.com/) as Web Developer for building online travel agent service
 
 During my career, I am working with these tools and services mostly:
 
-* **Programming Languages**: Python, BASH, Javascript, Typescript, PHP,
+* **Programming Languages**: Python, BASH, Sed, AWK, Javascript, Typescript, PHP
 * **Web Framework (Backend)**: Django REST Framework, Flask, Nest.js, Laravel
 * **Operating System**: Ubuntu
 * **Source code management**: Git, Github
 * **Web Server**: Nginx, HAProxy, Gunicorn, Uvicorn
-* **Containerization**: Docker, DockerHub, Kubernetes, Rancher v1.0
+* **Containerization**: Docker, DockerHub, Kubernetes, Helm, Rancher v1.0
 * **Databases**: PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch, Clickhouse
 * **Message queue**: Celery + Redis, Apache Kafka
 * **Monitoring and Alerting**: Prometheus + AlertManager + OpsGenie, Uptime Robot, Grafana
@@ -45,5 +45,4 @@ PHPMySQL, Adminer
 * **IT Governance**: ISO 27001:2013, NEN 7510-2:2017, COBIT 5
 * **Collaboration and Communication**: Slack, Google Docs, Slab, Dropbox Paper, Draw.io, Trello
 
-Currently, I am living in Indonesia. You can reach me online through my LinkedIn Profile that you can see in the homepage.
 
