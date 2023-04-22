@@ -2,19 +2,18 @@
 title: "About Me"
 ---
 
-Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 8+ years. Currently, I am living in Indonesia.
+Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 9+ years. Currently, I am living in Indonesia. I have interests in DevOps, cloud infrastructure development, high scalable
+systems, serverless computing, container orchestration, IT governance, IT security and many more.
 
-I have interests in DevOps, cloud infrastructure development, high scalable
-systems, serverless computing, container orchestration, IT governance, IT security and many more. My favorite quote is: *"Customer
-satisfaction is first priority"*.
-
-Currently, I am working as Cloud Infrastructure Engineer at [NiceDay Nederland B.V.](https://nicedaynederland.nl/) which has product for mental health care service. Previously, NiceDay Nederland B.V. was known as Sense Health B.V. which is located in Rotterdam, The Netherlands and Bandung, Indonesia.
+Currently, I am working as Cloud Infrastructure Engineer at [DKatalis Digital Lab](https://www.dkatalis.co/) which building end-to-end financial system in Indonesia.
 
 I also worked at:
 
-* [Ebizu Sdn. Bhd.](https://www.linkedin.com/company/ebizu/about/) as Backend and Infrastructure Engineer for building advertising data platform
-* [P.T. ARM Solusi](https://armsolusi.com/) as Backend Engineer for building online music streaming service
-* [P.T. Inzpire Technology](http://inzpiretechnology.com/) as Web Developer for building online travel agent service
+* [RuangGuru.com](https://www.ruangguru.com) as Cloud Infrastructure Engineer for managing it's cloud infrastructure at Google Cloud Platform
+* [NiceDay Nederland](https://nicedaynederland.nl/en/home-en/) as Software Engineer (Backend) for online mental health service. But then, I became Cloud Infrastructure Engineer for managing it's cloud infrastructure at Google Cloud Platform
+* [Ebizu Sdn. Bhd.](https://www.linkedin.com/company/ebizu/about/) as Software Engineer (Data Platform) for building advertising data platform
+* [P.T. ARM Solusi](https://armsolusi.com/) as Software Engineer (Backend) for building online music streaming service
+* [P.T. Inzpire Technology](http://inzpiretechnology.com/) as Software Engineer (Product) for building online travel agent service
 
 During my career, I am working with these tools and services mostly:
 
@@ -49,7 +48,7 @@ PHPMySQL, Adminer
 
 As an ordinary human being, I also have some hobbies such as:
 
-- Photography: macro, portraiture, landscape, still life
-- Reading books: tech, science, history, novel, comic
-- Sport activities: running, walking, volley ball, table tennis
+- Photography: macro, portraiture
+- Reading books: tech, science
+- Sport activities: walking
 - and many more.
