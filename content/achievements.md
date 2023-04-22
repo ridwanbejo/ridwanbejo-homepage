@@ -6,8 +6,16 @@ I have completed some training or courses. Here they are.
 
 ### Training or Courses
 
+
+**2023**
+
+- [Udemy - Istio Hands-On for Kubernetes by Richard Chesterwood](https://www.udemy.com/certificate/UC-a8f9a4d7-72b7-4d8a-b630-c730cb450a3b/)
+- [Udemy - Kubernetes Certified Application Developer (CKAD) with Tests by Mumshad Mannambeth](https://www.udemy.com/certificate/UC-99bd923f-1cd1-4da0-b176-123d1bd57557/)
+
 **2022**
 
+- [Udemy - Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth](https://www.udemy.com/certificate/UC-5a3ba47a-d042-479a-b6f1-71a8faba0022/)
+- [Udemy - Jenkins, From Zero To Hero: Become a DevOps Jenkins Master by Ricardo Andre Gonzalez Gomez](https://www.udemy.com/certificate/UC-f2227e4e-f065-4ac0-9d1f-45791c457cfa/)
 - [Google Cloud Skill Boost Badges](https://www.cloudskillsboost.google/public_profiles/b9d11480-0a1d-4322-a393-baa9ab27a5d8)
 - [Microsoft Learn Skill Badges](https://docs.microsoft.com/en-us/users/86491054/)
 - [Coursera - Site Reliability Engineering: Measuring and Managing Reliability by Google Cloud](https://www.coursera.org/account/accomplishments/verify/XNL4NTMMY45M)
