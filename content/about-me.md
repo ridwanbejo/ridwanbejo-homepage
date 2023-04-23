@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 9+ years. Currently, I am living in Indonesia. I have interests in DevOps, cloud infrastructure development, high scalable
+Hi, I am Ridwan Fadjar. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 9+ years. Currently, I am living in Indonesia. I have interests in DevOps, cloud infrastructure development, high scalable
 systems, serverless computing, container orchestration, IT governance, IT security and many more.
 
 Currently, I am working as Cloud Infrastructure Engineer at [DKatalis Digital Lab](https://www.dkatalis.co/) which building end-to-end financial system in Indonesia.

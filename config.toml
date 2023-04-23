@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "RidwanBejo Dev"
 theme = "ananke"
 paginate = 2
-Copyright = "© ridwanbejo 2022"
+Copyright = "Ridwanbejo Dev"
 canonifyurls = true
 [params]
 	description = "I am an IT Engineer who focus on Backend and Cloud Infrastructure Engineering"
@@ -16,12 +16,6 @@ canonifyurls = true
 	linkedinName = "ridwan-fadjar-79781756"
 	email = "ridwanbejo@gmail.com"
 	hideHUGOSupport = false
-[[menu.main]]  # here are the buttons on the menu
-	name = "Home" # Button will display as "Home"
-	weight = 10 # the weight decides the position of the button (higher or lower)
-	identifier = "home"
-	pre = "<br />"
-	url = "/"
 [[menu.main]]
 	name = "About Me"
 	identifier = "about-me" # this page will refer to a markdown file named "blog" in the content folder
