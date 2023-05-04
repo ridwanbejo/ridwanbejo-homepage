@@ -9,6 +9,7 @@ I have completed some training or courses. Here they are.
 
 **2023**
 
+- [Udemy - GitLab CI - A Complete Hands-On for CI/CD Pipelines & DevOps by A to Z Mentors](https://www.udemy.com/certificate/UC-856cec4f-489a-4a3a-89a1-7f3e3721a59e/)
 - [Udemy - Istio Hands-On for Kubernetes by Richard Chesterwood](https://www.udemy.com/certificate/UC-a8f9a4d7-72b7-4d8a-b630-c730cb450a3b/)
 - [Udemy - Kubernetes Certified Application Developer (CKAD) with Tests by Mumshad Mannambeth](https://www.udemy.com/certificate/UC-99bd923f-1cd1-4da0-b176-123d1bd57557/)
 
