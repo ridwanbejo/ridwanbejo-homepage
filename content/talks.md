@@ -4,8 +4,9 @@ title: "Talks"
 
 I used to be speaker in some meetup or conferences such as:
 
-- Cloud Infrastructure Engineer vs SRE. Alchemy x DKatalis online meetup - 2023
-- Cloud Infrastructure Automation with Python. BandungPy Offline Meetup - 2023 | [Page](https://www.instagram.com/p/CtOZbNbrEIg/?hl=en)
+- Build A Security Scanner for Kubernetes Based on CIS Benchmark with Python3 Standard Library. PyCon Indonesia Regular Talk - 2023 | [Page](https://pycon.id/profile/clnobtwfx0001kdzvprr1aegp) | [Slide](https://www.slideshare.net/ridwanbejo/pycon-id-2023-ridwan-fadjar-septianpdf)
+- Cloud Infrastructure Engineer vs SRE. Alchemy x DKatalis online meetup - 2023 | [Page](https://www.linkedin.com/events/cloudinfrastructureengineervssr7061183919848640512/)
+- Cloud Infrastructure Automation with Python. BandungPy Offline Meetup - 2023 | [Page](https://www.instagram.com/p/CtOZbNbrEIg/?hl=en) | [Slide](https://www.slideshare.net/ridwanbejo/cloud-infrastructure-automation-with-python3pdf)
 - Django Application Monitoring and Logging with Sentry, ELK (Elasticsearch, Logstash & Kibana) and
 Prometheus (Online). PyCon Indonesia Regular Talk - 2021 | [Page](https://pycon.id/schedule) | [Slide](https://www.slideshare.net/ridwanbejo/ridwan-fadjar-septian-pycon-id-2021-regular-talk-django-application-monitoring-with-sentry-elk-and-prometheus)
 - Introduction to AWS SQS for Web Application Task Queue (Online). AWS User Group Indonesia Meetup - 2020 | [Slide](https://www.slideshare.net/ridwanbejo/introduction-to-aws-sqs-for-web-application-task-queue-238634445)
