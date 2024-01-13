@@ -6,6 +6,9 @@ I open some my personal projects in Github. You may access those projects here.
 
 2024:
 
+- terraform-kubernetes-storage - Terraform module for managing Kubernetes storage class and CSI driver -> [click here](https://registry.terraform.io/modules/ridwanbejo/storage/kubernetes/latest)
+- terraform-kubernetes-iam - Terraform module for managing Kubernetes service account, token, and other IAM functionalities -> [click here](https://registry.terraform.io/modules/ridwanbejo/iam/kubernetes/latest)
+- terraform-kubernetes-namespace - Terraform module for managing Kubernetes namespace and resource quota -> [click here](https://registry.terraform.io/modules/ridwanbejo/namespace/kubernetes/latest)
 - terraform-grafana-iam - Terraform module for managing Grafana Config such as user and service account -> [click here](https://github.com/ridwanbejo/terraform-grafana-iam)
 - terraform-grafana-config - Terraform module for managing Grafana Config such as organization, organization preferences and data source  -> [click here](https://registry.terraform.io/modules/ridwanbejo/config/grafana/latest)
 
